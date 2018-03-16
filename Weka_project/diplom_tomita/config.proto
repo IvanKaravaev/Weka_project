@@ -1,0 +1,14 @@
+﻿encoding "utf8";
+TTextMinerConfig {
+Dictionary = "C:\\Users\\Student\\workspace\\example\\diplom_tomita\\dic.gzt";
+Input = {File = "C:\\Users\\Student\\workspace\\example\\diplom_tomita\\input.txt"}
+Output = {File = "C:\\Users\\Student\\workspace\\example\\diplom_tomita\\output.txt"
+Format = text}
+Articles = [
+{ Name = "первая_грамматика"}
+]
+Facts = [
+{Name = "fact"}
+]
+PrettyOutput = "C:\\Users\\Student\\workspace\\example\\N_Gramms.html"
+}
